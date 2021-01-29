@@ -1,0 +1,13 @@
+#include "Pods/Target Support Files/Pods-Main/Pods-Main.release.xcconfig"
+//
+//  Production.xcconfig
+//  PetsNaRua
+//
+//  Created by Israel Ermel on 08/09/20.
+//  Copyright © 2020 Israel Ermel. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+FIREBASE_CONFIG_FILE = GoogleService-Info-Prod

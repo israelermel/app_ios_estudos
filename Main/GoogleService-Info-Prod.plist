@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>637949171681-d13amttqfh2obbrdndv5091eufhtpb5g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.637949171681-d13amttqfh2obbrdndv5091eufhtpb5g</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>637949171681-ffscprduct3i95sj8p3gf762uojl10pp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDU64zDsm7IgzeqfWmxaAYnvnHjwH1YbMI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>637949171681</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.com.vineivel.petsnarua.Main</string>
+	<key>PROJECT_ID</key>
+	<string>petsnarua-928c5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>petsnarua-928c5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:637949171681:ios:7150f88979eade2ba2e4a0</string>
+	<key>DATABASE_URL</key>
+	<string>https://petsnarua-928c5.firebaseio.com</string>
+</dict>
+</plist>
